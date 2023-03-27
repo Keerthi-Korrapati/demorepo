@@ -1,1 +1,5 @@
-this is file5
+<<<<<<< HEAD
+This is file5
+=======
+This is file5
+>>>>>>> test
